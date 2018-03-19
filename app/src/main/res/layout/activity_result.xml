@@ -1,0 +1,167 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:ads="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:background="@drawable/background"
+                tools:context="com.prankenstein.bp.ResultActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/back_res"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:weightSum="10"
+        >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="8.2">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="11.5dp"
+                android:src="@drawable/header"
+                />
+        </LinearLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1.8"
+            >
+
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="350dp"
+                android:layout_height="450dp"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+
+                android:src="@drawable/sysyem"/>
+
+            <LinearLayout
+                android:layout_width="140dp"
+                android:layout_height="140dp"
+                android:layout_centerInParent="true"
+                android:orientation="horizontal"
+                android:weightSum="2">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:weightSum="3"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/SYS_text"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="SYS"
+                        android:layout_weight="1"
+                        android:textColor="#464645"
+                        android:gravity="center"
+
+                        android:textSize="25sp"
+                        android:textStyle="bold"/>
+                    <TextView
+                        android:id="@+id/DIA_text"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="DIA"
+                        android:layout_weight="1"
+                        android:textColor="#464645"
+                        android:textSize="25sp"
+                        android:gravity="center"
+
+                        android:textStyle="bold"/>
+                    <TextView
+                        android:id="@+id/PUL_text"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="PUL"
+                        android:layout_weight="1"
+                        android:textColor="#464645"
+                        android:gravity="center"
+                        android:textSize="25sp"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1"
+                    android:weightSum="3"
+                    android:orientation="vertical">
+                    <TextView
+                        android:id="@+id/SYS_res"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="120"
+                        android:layout_weight="1"
+                        android:textColor="#464645"
+                        android:gravity="center"
+
+                        android:textSize="25sp"
+                        android:textStyle="bold"/>
+                    <TextView
+                        android:id="@+id/DIA_res"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="80"
+                        android:layout_weight="1"
+                        android:textColor="#464645"
+                        android:textSize="25sp"
+                        android:gravity="center"
+
+                        android:textStyle="bold"/>
+                    <TextView
+                        android:id="@+id/PULSE_res"
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:text="75"
+                        android:layout_weight="1"
+                        android:textColor="#464645"
+                        android:gravity="center"
+                        android:textSize="25sp"
+                        android:textStyle="bold"/>
+                </LinearLayout>
+            </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+        </RelativeLayout>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/back_res"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:layout_above="@+id/adView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="10dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/backbtn"
+        />
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="@string/banner_ad_unit_id">
+    </com.google.android.gms.ads.AdView>
+</RelativeLayout>

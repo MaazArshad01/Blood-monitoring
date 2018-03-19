@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_start.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\menu\\menu_start.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_instruction.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\menu\\menu_instruction.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_result.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\menu\\menu_result.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\menu\\menu_add.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_info.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\menu\\menu_info.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_add.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\menu\\menu_add.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_result.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\menu\\menu_result.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_info.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\menu\\menu_info.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_start.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\menu\\menu_start.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_instruction.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\menu\\menu_instruction.xml"
+    }
+]

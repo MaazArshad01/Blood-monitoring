@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#432A6F</color>
+    <color name="red">#432A6F</color>
+    <color name="purple">#432A6F</color>
+
+    <color name="colorPrimary">#0C4D89</color>
+    <color name="colorPrimaryDark">#053c6e</color>
+    <color name="colorAccent">#1bb712</color>
+    <color name="textColor">#ffffff</color>
+    <color name="yello">#F5E00C</color>
+
+    <color name="dilogeColor">#414141</color>
+</resources>

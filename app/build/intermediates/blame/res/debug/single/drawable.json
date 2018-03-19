@@ -1,0 +1,830 @@
+[
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_disable.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\loading_disable.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\on_toggle_button.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\on_toggle_button.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\normal.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_enable.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\loading_enable.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_disable.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\loading_disable.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\volume_icon.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\volume_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharebtn.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\sharebtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\instal_btn.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\instal_btn.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backbtn.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\backbtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\off_toggle_button.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\off_toggle_button.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malebtn.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\malebtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratebutton_pressed.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\ratebutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\femalebtn.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\femalebtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malebutton_pressed.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\malebutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_auth_dialog_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratebtn.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\ratebtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sysyem.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\sysyem.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\back_button.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rectangle.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\05e3ed4affe1ee330127055515c86a12a95fdf40\\output\\res\\drawable\\rounded_rectangle.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finger_pressed.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\finger_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharebutton.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\sharebutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finger.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\finger.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playbtn.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\playbtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_favicon_blue.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_favicon_blue.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adview_img.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\adview_img.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finger.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\finger.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\adview_img.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\adview_img.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playbtn.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\playbtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\finger_pressed.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\finger_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malebutton.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\malebutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\backbtn.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\backbtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartred.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\heartred.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\on_toggle_button.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\on_toggle_button.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanner_gif.gif",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\scanner_gif.gif"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_pressed.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\back_button_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light_focused.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\05e3ed4affe1ee330127055515c86a12a95fdf40\\output\\res\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_login_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playbutton.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\playbutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\femalebutton.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\femalebutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vibrate_icon.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\vibrate_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_send_button_icon.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_send_button_icon.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartred.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\heartred.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\back_button.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartredicon.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\heartredicon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanner.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\scanner.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playbutton.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\playbutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scan_bar.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\scan_bar.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharebutton_pressed.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\sharebutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\normal.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\normal.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sysyem.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\sysyem.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malebutton.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\malebutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_cancel_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_auth_dialog_cancel_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_icon.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_icon.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanner_gif.gif",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\scanner_gif.gif"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edittext_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\05e3ed4affe1ee330127055515c86a12a95fdf40\\output\\res\\drawable\\edittext_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\heartredicon.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\heartredicon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\volume_icon.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\volume_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\pressed.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scanner.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\scanner.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharebutton_pressed.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\sharebutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rounded_rectangle.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\05e3ed4affe1ee330127055515c86a12a95fdf40\\output\\res\\drawable\\rounded_rectangle.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_auth_dialog_header_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_auth_dialog_header_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharebutton.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\sharebutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark_focused.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb_selector.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\thumb_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_checkbox_design.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\custom_checkbox_design.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\custom_checkbox_design.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\custom_checkbox_design.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\vibrate_icon.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\vibrate_icon.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_logo.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_login_logo.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_button_pressed.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\back_button_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratebutton.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\ratebutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark_focused.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\femalebutton.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\femalebutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playbutton_pressed.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\playbutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light_focused.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\ff6eaa50eeed4c898081366041098b3836520c0a\\output\\res\\drawable\\common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\thumb_selector.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\thumb_selector.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\pressed.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\pressed.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malebutton_pressed.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\malebutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading_enable.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\loading_enable.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratebtn.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\ratebtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\femalebutton_pressed.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\femalebutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratebutton.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\ratebutton.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ratebutton_pressed.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\ratebutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharebtn.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\sharebtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scan_bar.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\scan_bar.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\off_toggle_button.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\off_toggle_button.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\background.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\7082cb4a954db123b7ca5618351d60a11736a544\\output\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\header.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\header.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playbutton_pressed.png",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\playbutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\femalebutton_pressed.png",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\femalebutton_pressed.png"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\abc\\.android\\build-cache\\e2671cc5ec317032d52622d96319090f2d6254bb\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malebtn.xml",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\drawable\\malebtn.xml"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\femalebtn.xml",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\drawable\\femalebtn.xml"
+    }
+]

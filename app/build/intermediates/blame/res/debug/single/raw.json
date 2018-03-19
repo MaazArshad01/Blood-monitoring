@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\raw\\start.mp3",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\raw\\start.mp3"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\raw\\khatam.mp3",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\raw\\khatam.mp3"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\raw\\start.mp3",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\raw\\start.mp3"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ecg.mp3",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\raw\\ecg.mp3"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\raw\\khatam.mp3",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\raw\\khatam.mp3"
+    },
+    {
+        "merged": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\build\\intermediates\\res\\merged\\debug\\raw\\end.mp3",
+        "source": "D:\\New folder (2)\\Blood Monitor\\BloodMonitor Purple\\app\\src\\main\\res\\raw\\end.mp3"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\raw\\end.mp3",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\raw\\end.mp3"
+    },
+    {
+        "merged": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ecg.mp3",
+        "source": "D:\\New folder (2)\\BloodPressure_purple\\BloodPressure\\app\\src\\main\\res\\raw\\ecg.mp3"
+    }
+]

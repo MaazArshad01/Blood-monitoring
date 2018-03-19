@@ -1,0 +1,297 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:1-58:12
+MERGED from [com.codemybrainsout.rating:ratingdialog:1.0.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\ratingdialog-1.0.8.aar\20dd98803615a82e46e4f9a46b2f0d40\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.florent37:viewanimator:1.0.5] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewanimator-1.0.5.aar\046700a778c73eb7272767e42bcc97de\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\fda1bc1a165814adc3a431a128ce73f7\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\4262ebe338780fac743bd41763018500\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\135c1b8ac401140276e302bdccaf1192\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\22f964e7c64dfc68b983ce9520336702\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\2b96938674d29f3f413efee5aed288b3\AndroidManifest.xml:16:1-18:12
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\71770fab098278e072b72cd4700079df\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:16:1-28:12
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\9ed2b8987330b5b8c4e1af4a6810c1cb\AndroidManifest.xml:16:1-19:12
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\2869a18fc77701beb43f87379199d94c\AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\3c99fa79ec23737a5fa17655df872682\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\eec3e8fb57857e6dc4330c6114b9c8f8\AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\0b3e4a24b68fa3903e98db1fab61235f\AndroidManifest.xml:16:1-23:12
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\2e7493ac7f95500e575d15c4af0c824e\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\0e049a25155738bc9cafa70d1420b393\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\4c8dbad8fdc0fb10da5c49ab5c1ce446\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\640bfcda0f94c5a6d010fd86fc2c8d1b\AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\917b82dbed2c14e1c1bb35a99e473447\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\55725ff25107770aa3b85c5f9ebfff4b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9acf54c9645e06ef2a315baacaf93612\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\127e043189e033c25eedc47c1a6eadc2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\c15184d28bd8607db38951a6a8e861fd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\66ecb931c496c7575a59d98a27519d86\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8391bfc271ab39154d5088792b5665aa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\62a35629e850fd163404c6cc9a4cad0b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a8ffb594965cc24f110789f7cee611b0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\6b9afe441e8b71326eaaa339a5d47a9e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\049e713a45473cc48f935d930aa270bf\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:1-58:12
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:1-58:12
+	package
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:3:11-40
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:1-58:12
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:5:5-65
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:5:22-63
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:6:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:19:5-66
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:7:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:20:5-78
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:9:5-56:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\fda1bc1a165814adc3a431a128ce73f7\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\fda1bc1a165814adc3a431a128ce73f7\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\4262ebe338780fac743bd41763018500\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\4262ebe338780fac743bd41763018500\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\135c1b8ac401140276e302bdccaf1192\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\135c1b8ac401140276e302bdccaf1192\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:28:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\9ed2b8987330b5b8c4e1af4a6810c1cb\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\9ed2b8987330b5b8c4e1af4a6810c1cb\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\2869a18fc77701beb43f87379199d94c\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\2869a18fc77701beb43f87379199d94c\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\3c99fa79ec23737a5fa17655df872682\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\3c99fa79ec23737a5fa17655df872682\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\eec3e8fb57857e6dc4330c6114b9c8f8\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\eec3e8fb57857e6dc4330c6114b9c8f8\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\0b3e4a24b68fa3903e98db1fab61235f\AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\0b3e4a24b68fa3903e98db1fab61235f\AndroidManifest.xml:19:5-21:19
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\2e7493ac7f95500e575d15c4af0c824e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\2e7493ac7f95500e575d15c4af0c824e\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\0e049a25155738bc9cafa70d1420b393\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\0e049a25155738bc9cafa70d1420b393\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\4c8dbad8fdc0fb10da5c49ab5c1ce446\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\4c8dbad8fdc0fb10da5c49ab5c1ce446\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\640bfcda0f94c5a6d010fd86fc2c8d1b\AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\640bfcda0f94c5a6d010fd86fc2c8d1b\AndroidManifest.xml:28:5-43:19
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\fda1bc1a165814adc3a431a128ce73f7\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:12:9-41
+	android:largeHeap
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:13:9-33
+	android:icon
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:14:9-40
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:15:9-17:54
+	android:value
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:17:13-52
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:16:13-58
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:18:9-20:68
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\0b3e4a24b68fa3903e98db1fab61235f\AndroidManifest.xml:20:9-121
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\0b3e4a24b68fa3903e98db1fab61235f\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:20:13-66
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:19:13-58
+activity#com.prankenstein.bp.ResultActivity
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:22:9-26:58
+	android:screenOrientation
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:25:13-49
+	android:label
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:24:13-58
+	android:theme
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:23:13-43
+activity#com.prankenstein.bp.WelcomActivity
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:27:9-32:20
+	android:screenOrientation
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:29:13-49
+	android:theme
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:30:13-56
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:28:13-43
+activity#com.prankenstein.bp.GenderActivity
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:33:9-37:58
+	android:screenOrientation
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:36:13-49
+	android:label
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:35:13-42
+	android:theme
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:34:13-43
+activity#com.google.android.gms.ads.AdActivity
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:38:9-41:63
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:25:9-232
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:25:9-232
+	android:configChanges
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:40:13-122
+	android:theme
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:41:13-61
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:39:13-65
+activity#com.prankenstein.bp.MainActivity
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:42:9-46:20
+	android:hardwareAccelerated
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:44:13-48
+	android:theme
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:43:13-41
+activity#com.prankenstein.bp.splashActivity
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:47:9-55:20
+	android:screenOrientation
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:49:19-55
+	android:theme
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:48:19-62
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:47:19-49
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:50:13-54:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:51:17-68
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:51:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:53:17-76
+	android:name
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml:53:27-74
+uses-sdk
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+MERGED from [com.codemybrainsout.rating:ratingdialog:1.0.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\ratingdialog-1.0.8.aar\20dd98803615a82e46e4f9a46b2f0d40\AndroidManifest.xml:7:5-9:41
+MERGED from [com.codemybrainsout.rating:ratingdialog:1.0.8] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\ratingdialog-1.0.8.aar\20dd98803615a82e46e4f9a46b2f0d40\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.florent37:viewanimator:1.0.5] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewanimator-1.0.5.aar\046700a778c73eb7272767e42bcc97de\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.florent37:viewanimator:1.0.5] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\viewanimator-1.0.5.aar\046700a778c73eb7272767e42bcc97de\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\fda1bc1a165814adc3a431a128ce73f7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.31.0.aar\fda1bc1a165814adc3a431a128ce73f7\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\4262ebe338780fac743bd41763018500\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-login-4.31.0.aar\4262ebe338780fac743bd41763018500\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\135c1b8ac401140276e302bdccaf1192\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-share-4.31.0.aar\135c1b8ac401140276e302bdccaf1192\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\22f964e7c64dfc68b983ce9520336702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\22f964e7c64dfc68b983ce9520336702\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\2b96938674d29f3f413efee5aed288b3\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.8.0.aar\2b96938674d29f3f413efee5aed288b3\AndroidManifest.xml:17:5-42
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\71770fab098278e072b72cd4700079df\AndroidManifest.xml:7:5-9:41
+MERGED from [pl.droidsonroids.gif:android-gif-drawable:1.2.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\android-gif-drawable-1.2.3.aar\71770fab098278e072b72cd4700079df\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\9ed2b8987330b5b8c4e1af4a6810c1cb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-clearcut:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.8.0.aar\9ed2b8987330b5b8c4e1af4a6810c1cb\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\2869a18fc77701beb43f87379199d94c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\2869a18fc77701beb43f87379199d94c\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\3c99fa79ec23737a5fa17655df872682\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gass:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.8.0.aar\3c99fa79ec23737a5fa17655df872682\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\eec3e8fb57857e6dc4330c6114b9c8f8\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.8.0.aar\eec3e8fb57857e6dc4330c6114b9c8f8\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\0b3e4a24b68fa3903e98db1fab61235f\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.8.0.aar\0b3e4a24b68fa3903e98db1fab61235f\AndroidManifest.xml:17:5-42
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\2e7493ac7f95500e575d15c4af0c824e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-places-4.31.0.aar\2e7493ac7f95500e575d15c4af0c824e\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\0e049a25155738bc9cafa70d1420b393\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.31.0.aar\0e049a25155738bc9cafa70d1420b393\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\4c8dbad8fdc0fb10da5c49ab5c1ce446\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.31.0.aar\4c8dbad8fdc0fb10da5c49ab5c1ce446\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\640bfcda0f94c5a6d010fd86fc2c8d1b\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\640bfcda0f94c5a6d010fd86fc2c8d1b\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\917b82dbed2c14e1c1bb35a99e473447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\917b82dbed2c14e1c1bb35a99e473447\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\55725ff25107770aa3b85c5f9ebfff4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\55725ff25107770aa3b85c5f9ebfff4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9acf54c9645e06ef2a315baacaf93612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\9acf54c9645e06ef2a315baacaf93612\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\127e043189e033c25eedc47c1a6eadc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.0.2.aar\127e043189e033c25eedc47c1a6eadc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\c15184d28bd8607db38951a6a8e861fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\customtabs-27.0.2.aar\c15184d28bd8607db38951a6a8e861fd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\66ecb931c496c7575a59d98a27519d86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\66ecb931c496c7575a59d98a27519d86\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8391bfc271ab39154d5088792b5665aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\8391bfc271ab39154d5088792b5665aa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\62a35629e850fd163404c6cc9a4cad0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\62a35629e850fd163404c6cc9a4cad0b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a8ffb594965cc24f110789f7cee611b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\a8ffb594965cc24f110789f7cee611b0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\6b9afe441e8b71326eaaa339a5d47a9e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\6b9afe441e8b71326eaaa339a5d47a9e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\049e713a45473cc48f935d930aa270bf\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\049e713a45473cc48f935d930aa270bf\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\DELL\AndroidStudioProjects\BloodMonitor Purple\app\src\main\AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-common-4.31.0.aar\f45c747b23107ba89608db0cde6db8ed\AndroidManifest.xml:33:19-68
+activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:26:9-131
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:26:92-129
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.8.0.aar\109f931fa1dad6001165978145289a1a\AndroidManifest.xml:26:19-91
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\2869a18fc77701beb43f87379199d94c\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\2869a18fc77701beb43f87379199d94c\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\2869a18fc77701beb43f87379199d94c\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\play-services-base-9.8.0.aar\2869a18fc77701beb43f87379199d94c\AndroidManifest.xml:19:19-85
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\640bfcda0f94c5a6d010fd86fc2c8d1b\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\640bfcda0f94c5a6d010fd86fc2c8d1b\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\640bfcda0f94c5a6d010fd86fc2c8d1b\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.31.0] C:\Users\DELL\.gradle\caches\transforms-1\files-1.1\facebook-core-4.31.0.aar\640bfcda0f94c5a6d010fd86fc2c8d1b\AndroidManifest.xml:40:13-70
